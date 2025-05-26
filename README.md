@@ -21,32 +21,31 @@ Weitere Erwartungen sind:
 <h1>II. Ressourcen - Datenquellen</h1>
 
 - [Gebäude- und Wohnungsregister GWR](https://opendata.swiss/de/dataset/eidg-gebaude-und-wohnungsregister-energie-warmequelle-heizung)  
-  ◦ [Doku Datendownload](https://opendata.swiss/de/dataset/eidg-gebaude-und-wohnungsregister-energie-warmequelle-heizung/resource/aecdf2fc-56f2-4ab4-bcd2-2a84ce6bbd6a)  
-  ◦ [Doku Attribute](https://www.housing-stat.ch/downloads/Manual_Attribute_GWR.pdf), insbesondere die [Code-Liste](https://www.housing-stat.ch/downloads/GWR_Code-Liste.pdf)
+  ◦ [Doku Datendownload](https://www.housing-stat.ch/de/madd/public.html) 
+  ◦ [Doku Attribute](https://www.housing-stat.ch/de/docs/index.html), insbesondere die [Code-Liste](https://www.housing-stat.ch/files/Codeliste_Publikation_20240411.xlsx)
 
-- [Elektrizitätsproduktionsanlagen](https://opendata.swiss/de/dataset/elektrizitatsproduktionsanlagen)  
-  ◦ [Dokumentation Datenmodell](https://opendata.swiss/de/dataset/elektrizitatsproduktionsanlagen/resource/4fcaf561-389e-4d32-84d5-dbd0cc111ddd)
+- [Elektrizitätsproduktionsanlagen](https://opendata.swiss/de/dataset/elektrizitatsproduktionsanlagen)
+  ◦ [Dokumentation Datenmodell](https://www.bfe.admin.ch/bfe/de/home/versorgung/digitalisierung-und-geoinformation/geoinformation/geodaten/produktionsanlagen/elektrizitaetsproduktionsanlagen.html)
 
-- [Minergiegebäude](https://opendata.swiss/de/dataset/minergie-gebaude)
+- [Minergiegebäude](https://opendata.swiss/de/dataset/anzahl-minergie-gebaude-in-gemeinden)
 
-- [Ausgenutztes PV-Potential in Gemeinden](https://opendata.swiss/de/dataset/ausgenutztes-pv-potential-gemeinden)  
-  ◦ [Dokumentation Methodik](https://opendata.swiss/de/dataset/ausgenutztes-pv-potential-gemeinden/resource/40e98aa2-7b3f-4f2c-91b7-9de9432cd489)
+- [Ausgenutztes PV-Potential in Gemeinden](https://opendata.swiss/de/dataset/energie-reporter)  
+  ◦ [Dokumentation Methodik](https://energiereporter.energyapps.ch/methodology#heading-solarstrom)
 
-- [Thermische Netze Schweiz](https://opendata.swiss/de/dataset/thermische-netze)  
-  ◦ [Dokumentation Datenmodell](https://opendata.swiss/de/dataset/thermische-netze/resource/863d2b45-1b21-4f5d-a4d9-9cd5f84a8a4e)
+- [Thermische Netze Schweiz](https://opendata.swiss/de/dataset/thermische-netze-nahwarme-fernwarme-fernkalte)  
+  ◦ [Dokumentation Datenmodell](https://www.bfe.admin.ch/bfe/de/home/versorgung/digitalisierung-und-geoinformation/geoinformation/geodaten/thermische-netze/thermische-netze.html)
+- [Nachhaltiges Potenzial verholzter Biomasse](https://opendata.swiss/de/dataset/nachhaltiges-potenzial-der-verholzten-biomassenressourcen-fur-bioenergie-in-der-schweiz-auf-gem), [Nachhaltiges Potenzial nicht verholzter Biomasse](https://opendata.swiss/de/dataset/nachhaltiges-potenzial-der-nicht-verholzten-biomassenressourcen-fur-bioenergie-in-der-schweiz-a)
 
-- [Nachhaltiges Potenzial verholzter Biomasse](https://opendata.swiss/de/dataset/biomasse-verholzt), [Nachhaltiges Potenzial nicht verholzter Biomasse](https://opendata.swiss/de/dataset/biomasse-nicht-verholzt)
-
-- [Gemeinden Kanton Bern](https://opendata.swiss/de/dataset/gemeinden-kanton-bern), oder direkt via  
-  [Excel-Tabelle mit aktuellem Gemeindestand](https://www.be.ch/portal/de/index/inneres/gemeinden.assetref/dam/documents/INNERES/Gemeinden/de/gemeinden/Gemeindestand.xlsx) → `Gemeindestand.xlsx`
+- [Gemeinden Kanton Bern](https://opendata.swiss/de/dataset/historisiertes-gemeindeverzeichnis-der-schweiz), oder direkt via  
+  [Excel-Tabelle mit aktuellem Gemeindestand](https://www.agvchapp.bfs.admin.ch/de) → `Gemeindestand.xlsx`
 
 - Weitere Open Government Data (OGD) dürfen verwendet werden, siehe z. B.  
-  [Geoprodukte des Kanton Bern](https://www.geo.be.ch/), oder [opendata.swiss](https://opendata.swiss)
+  [Geoprodukte des Kanton Bern](https://www.agi.dij.be.ch/de/start/geoportal/geodaten/geodaten-zum-download/geoprodukte-zum-download.html), oder [opendata.swiss](https://opendata.swiss/)
 
 
 ## Weitere Infos
 
-Hintergrundinformationen zum Zweck der EKDP sind auf der [Themenseite des Kantons](https://example.com/themenseite) verfügbar.
+Hintergrundinformationen zum Zweck der EKDP sind auf der [Themenseite des Kantons](https://www.weu.be.ch/de/start/themen/energie/energiedatenplattform.html) verfügbar.
 
 
 
