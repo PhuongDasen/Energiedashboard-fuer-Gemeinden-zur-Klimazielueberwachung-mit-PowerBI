@@ -1,4 +1,4 @@
-# Energie-Dashboard-
+# Energie-Dashboard
 Data Hackdays in Kanton Bern im 05.2025
 <h1>I. Business Analysis und Anforderungen von Kanton Bern</h1>
 <h2>Warum?</h2>
@@ -42,10 +42,8 @@ Weitere Erwartungen sind:
 - Weitere Open Government Data (OGD) dürfen verwendet werden, siehe z. B.  
   [Geoprodukte des Kanton Bern](https://www.agi.dij.be.ch/de/start/geoportal/geodaten/geodaten-zum-download/geoprodukte-zum-download.html), oder [opendata.swiss](https://opendata.swiss/)
 
-
 ## Weitere Infos
-
 Hintergrundinformationen zum Zweck der EKDP sind auf der [Themenseite des Kantons](https://www.weu.be.ch/de/start/themen/energie/energiedatenplattform.html) verfügbar.
 
-
+<h1>III. Brainstorming</h1>
 
