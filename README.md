@@ -7,4 +7,17 @@ Auf der Energie- und Klimadatenplattform (EKDP) visualisiert der Kanton Bern Erf
 Gemiende im Kanton Bern können sich niederschwellig über energierelevante Daten informieren. Aber auch Politisierenden, Energieberatenden, Ingenieurbüros oder der Bevölkerung soll die EKDP spannende Daten aufzeigen.
 Das Management sowie die Weiterentwicklung der Plattform wird durch das Amt für Ümwelt und Energie (AUE) des Kantons Bern betreut.
 <h2>Was?</h2>
-Wir möchten die Nutzung des Dashboards interaltiver gestalten. Interessant wäre z.B die Möglichkeit, Zeitreiben zu visualizieren oder Usern die Erstellung eigener Analysen zu ermöglichen.
+Wir möchten die Nutzung des Dashboards interaktiver gestalten. Interessant wäre z.B die Möglichkeit, Zeitreiben zu visualizieren oder Usern die Erstellung eigener Analysen zu ermöglichen.
+Weitere Erwartungen sind:
+<ul>
+  <li>
+    Mögliches neues Energiedashboard mit den vorhandenen Datensätzen.
+    Erste Visualisierungen liegen vor.
+    Eventuell verwendete zusätzliche Daten sind OGD
+    Ideen für Kombination der Daten willkommen
+    Lösung soll Ladezeit der EKDP nicht verlängern, um die User-Erfahrung angenehm zu gestalten.
+  </li>
+</ul>
+<h1>II. Ressourcen - Datenquellen</h1>
+
+
