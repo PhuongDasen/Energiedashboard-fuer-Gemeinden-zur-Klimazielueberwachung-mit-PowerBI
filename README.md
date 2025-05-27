@@ -54,6 +54,26 @@ Hintergrundinformationen zum Zweck der EKDP sind auf der [Themenseite des Kanton
 <img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
 
 <h1>V. Insights</h1>
+1️⃣ Tiefere Analyse der Energiequellen
+<ul>
+<li>🔥 Dominanz fossiler Energieträger: Heizöl (39.22 %) und Gas (11.54 %) machen über 50 % des Mix aus – hohe Abhängigkeit von nicht-erneuerbaren Quellen.</li>
+<li>💧 Geringe Nutzung von Fernwärme (4.01 %) und Wasserenergie (0.33 %) – Potenzial für urbane Infrastruktur und Förderprogramme.</li>
+<li>⚠️ Kategorie „Keine“ (5.78 %) als Warnsignal – Datenerhebungsprobleme oder fehlende Meldepflicht können Qualität der Analyse beeinträchtigen.</li>
+</ul>
+2️⃣ Gemeindevergleiche und Minergie-Kontext
+<ul>
+<li>🏘️ Kleinere Gemeinden mit hohem Minergie-Prozentsatz – Potenzial als Best-Practice-Beispiele.</li>
+<li>🏙️ Stadt Bern mit hoher Gesamtenergieproduktion, aber moderatem Wert pro Kopf – zeigt Herausforderungen bei Effizienz in großen Städten.</li>
+<li>📊 Viele Gemeinden im unteren Bereich bei Minergie und Prozentanteil – gezielte Unterstützung notwendig.</li>
+</ul>
+3️⃣ Handlungsempfehlungen für Energieplanung
+<ul>
+<li>✅ Förderprogramme für Gemeinden mit niedriger Minergie-Quote starten.
+<li>⚙️ Einheitliche Datenerfassung und Klassifikation für Energieträger etablieren – besonders für „Keine“ und „Weitere“.
+</ul>
+
+
+
 
 
 
