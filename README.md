@@ -13,6 +13,49 @@ Tools: PowerBI<br>
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)<br>
 
 ---
+## 📌 Background & Overview  
+
+### Objective:
+### 📖 What is this project about? 
+### 👤 Who is this project for?  
+###  ❓Business Questions:  
+### 🎯Project Outcome: 
+## 📂 Dataset Description & Data Structure  
+
+### 📌 Data Source  
+### 📊 Data Structure & Relationships  
+
+#### 1️⃣ Tables Used:
+#### 2️⃣ Table Schema & Data Snapshot  
+#### 3️⃣ Data Relationships:  
+---
+
+## 🧠 Design Thinking Process  
+---
+
+## ⚒️ Main Process
+## 📊 Key Insights & Visualizations  
+
+### 🔍 Dashboard Preview  
+
+#### 1️⃣ Dashboard 1 Preview  
+---
+
+## 🔎 Final Conclusion & Recommendations  
+👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
+
+📌 Key Takeaways:  
+✔️ Recommendation 1  
+✔️ Recommendation 2  
+✔️ Recommendation 3
+
+
+
+
+
+
+
+
 <h1>I. Business Analysis und Anforderungen von Kanton Bern</h1>
 <h2>Warum?</h2>
 Auf der Energie- und Klimadatenplattform (EKDP) visualisiert der Kanton Bern Erfolge auf dem Weg tur Kimaneutralität bis 2050. Energie- und Kilmadaten können auf Gemeinde- oder Gebäudeebene nach vielfältige Kriteien dargestellt werden. Damit steht mit der Plattform ein wichtiges Instrument zur Verfügung, das für die Förderung, das Monitoring sowie Reporting eingesetzt werden kann.
