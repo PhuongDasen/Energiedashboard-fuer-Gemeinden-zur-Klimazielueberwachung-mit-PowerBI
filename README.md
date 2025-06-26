@@ -13,13 +13,17 @@ Tools: PowerBI<br>
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)<br>
 
 ---
-## 📌 Background & Overview  
+## 📌 Hintergrund und Überblick 
 
 ### Objective:
-### 📖 What is this project about? 
-### 👤 Who is this project for?  
-###  ❓Business Questions:  
+### 📖 Was ist dieses Projekt?
+Die Energie- und Klimadatenplattform (EKDP) des Kantons Bern stellt Energie- und Klimadaten auf Gemeinde- oder Gebäudeebene bereit. Sie dient der Visualisierung von Fortschritten in Richtung Klimaneutralität bis 2050.
+### 👤 Für wen ist dieses Projekt?
+Die Plattform richtet sich an Gemeinden, politische Entscheidungsträger, Energieberatende, Ingenieurbüros sowie die breite Bevölkerung im Kanton Bern. 
+###  ❓Geschäftsfrage von dem Projekt?
+Wie können energie- und klimarelevante Daten effektiv genutzt werden, um Fortschritte messbar zu machen, die Entscheidungsfindung zu unterstützen und die Klimaziele bis 2050 zu erreichen? 
 ### 🎯Project Outcome: 
+Ein interaktives Dashboard, das bestehende und eventuell zusätzliche Datensätze visualisiert, benutzerfreundlich bleibt (z. B. kurze Ladezeit), individuelle Analysen ermöglicht und zur Informationsbasis für Klimapolitik und Energielenkung wird.
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
