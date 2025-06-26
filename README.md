@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ecommerce-banner.png" alt="E-commerce Sales Banner" width="100%" />
+  <img src="https://github.com/phuongdasen/Energie-Dashboard/blob/main/ecommerce.png?raw=true" width="100%">
 </p>
 <h1>Energie-Dashboard</h1>
 Data Hackdays in Kanton Bern im 05.2025<br>
