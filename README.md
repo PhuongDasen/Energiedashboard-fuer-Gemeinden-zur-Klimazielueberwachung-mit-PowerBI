@@ -1,8 +1,8 @@
 <p align="center">
   <img src="assets/ecommerce-banner.png" alt="E-commerce Sales Banner" width="100%" />
 </p>
-# Energie-Dashboard
-Data Hackdays in Kanton Bern im 05.2025
+<h1>Energie-Dashboard</h1>
+Data Hackdays in Kanton Bern im 05.2025<br>
 Tools: PowerBI
 <h1>I. Business Analysis und Anforderungen von Kanton Bern</h1>
 <h2>Warum?</h2>
