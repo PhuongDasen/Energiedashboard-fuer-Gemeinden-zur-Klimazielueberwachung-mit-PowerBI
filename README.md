@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="assets/ecommerce-banner.png" alt="E-commerce Sales Banner" width="100%" />
+</p>
 # Energie-Dashboard
 Data Hackdays in Kanton Bern im 05.2025
+Tools: PowerBI
 <h1>I. Business Analysis und Anforderungen von Kanton Bern</h1>
 <h2>Warum?</h2>
 Auf der Energie- und Klimadatenplattform (EKDP) visualisiert der Kanton Bern Erfolge auf dem Weg tur Kimaneutralität bis 2050. Energie- und Kilmadaten können auf Gemeinde- oder Gebäudeebene nach vielfältige Kriteien dargestellt werden. Damit steht mit der Plattform ein wichtiges Instrument zur Verfügung, das für die Förderung, das Monitoring sowie Reporting eingesetzt werden kann.
