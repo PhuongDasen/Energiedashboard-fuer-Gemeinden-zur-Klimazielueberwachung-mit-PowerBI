@@ -71,12 +71,27 @@ Es gibt 9 Tabellen im Datensatz.
 <img width="750" alt="Screenshot 2025-05-19 at 10 30 26" src="https://github.com/user-attachments/assets/56e464db-f40e-483a-9fdc-3bf3d11499e5" />
 <p><strong>Aktuelle Schnittstellenstatusanalyse</strong></p>
 <img width="750" alt="Screenshot 2025-05-19 at 10 30 19" src="https://github.com/user-attachments/assets/21ab95f0-4a72-45a5-aecb-764e0e2c5ca3" />
+---
+## ⚒️ Main Process
+1️⃣ Datenbereinigung und -vorverarbeitung  
+Daten des Kantons Bern wurden im System bereinigt und aufbereitet.
+2️⃣ Explorative Datenanalyse (EDA)
+energy_distribution = (
+    energy_by_label['Energieträger_Label']
+    .value_counts()
+    .reset_index()
+    .rename(columns={'index': 'Energieträger_Label', 'Energieträger_Label': 'Anzahl'})
+)
+energy_distribution['Prozentual'] = round((energy_distribution['Anzahl'] / energy_distribution['Anzahl'].sum()) * 100, 2)
+display(energy_distribution)
+3️⃣ SQL/ Python Analyse 
+
 
 <h1>IV. Visualisierung</h1>
 <img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
 ---
 
-## ⚒️ Main Process
+
 ## 📊 Key Insights & Visualizations  
 
 ### 🔍 Dashboard Preview  
