@@ -17,13 +17,22 @@ Tools: PowerBI<br>
 
 ### Objective:
 ### 📖 Was ist dieses Projekt?
-Die Energie- und Klimadatenplattform (EKDP) des Kantons Bern stellt Energie- und Klimadaten auf Gemeinde- oder Gebäudeebene bereit. Sie dient der Visualisierung von Fortschritten in Richtung Klimaneutralität bis 2050.
+• Aufbau eines interaktiven Energie-Dashboards auf Basis der EKDP (Energie- und Klimadatenplattform) des Kantons Bern.<br>
+•	Ziel: datengetriebene Steuerung und Überwachung der Fortschritte Richtung Klimaneutralität 2050.<br>
+•	Visualisierung zentraler KPIs wie Energieträger, Minergie-Standards, Stromproduktion und Bevölkerung auf Gemeindeebene.<br>
 ### 👤 Für wen ist dieses Projekt?
-Die Plattform richtet sich an Gemeinden, politische Entscheidungsträger, Energieberatende, Ingenieurbüros sowie die breite Bevölkerung im Kanton Bern. 
+• Gemeinden<br>
+• Politische Entscheidungsträger<br>
+• Energieberatende, Ingenieurbüros<br>
+• Bevölkerung in Kanton Bern<br>
 ###  ❓Geschäftsfrage von dem Projekt?
-Wie können energie- und klimarelevante Daten effektiv genutzt werden, um Fortschritte messbar zu machen, die Entscheidungsfindung zu unterstützen und die Klimaziele bis 2050 zu erreichen? 
+• Welche Energieträger dominieren aktuell in der Gesamtverteilung – und wie groß ist der Anteil erneuerbarer Energiequellen?<br>
+• Wie entwickelt sich die Stromproduktion aus erneuerbaren Quellen im Jahresverlauf – und welche Energiequelle liefert welchen Beitrag?<br>
+• Welche Gemeinden haben eine hohe Anzahl an Minergie-Gebäuden – und wie korreliert dies mit der Bevölkerungsgröße und dem prozentualen Anteil?<br>
+• Wie ist die geografische Verteilung der Energieträger auf Gemeindeebene – und wo bestehen Cluster bestimmter Versorgungsarten?<br>
 ### 🎯Project Outcome: 
-Ein interaktives Dashboard, das bestehende und eventuell zusätzliche Datensätze visualisiert, benutzerfreundlich bleibt (z. B. kurze Ladezeit), individuelle Analysen ermöglicht und zur Informationsbasis für Klimapolitik und Energielenkung wird.
+•	Bereitstellung eines strategischen Steuerungstools zur Überwachung energie- und klimapolitischer Maßnahmen.<br>
+•	Grundlage für datenbasierte Entscheidungen auf kommunaler und kantonaler Ebene.<br>
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
