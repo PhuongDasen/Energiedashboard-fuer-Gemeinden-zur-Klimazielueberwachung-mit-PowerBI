@@ -39,6 +39,16 @@ Tools: PowerBI<br>
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:
+<details>
+  <summary>🔽 Table: city_energy_users (336 Gemeinden mit ihren Energieträger)</summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/8f83a71b-a45a-4c36-bea9-39026bc477b6" width="600"/>
+</details>
+<details>
+  <summary>🔽 Table: Geographie Index der Gemeinde (338 Zeilen)</summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/5067ff53-e44a-4d6c-8178-601d20e3b74c" width="600"/>
+</details>
 #### 2️⃣ Table Schema & Data Snapshot  
 #### 3️⃣ Data Relationships:  
 ---
@@ -69,24 +79,6 @@ Tools: PowerBI<br>
 
 
 
-<h1>I. Business Analysis und Anforderungen von Kanton Bern</h1>
-<h2>Warum?</h2>
-Auf der Energie- und Klimadatenplattform (EKDP) visualisiert der Kanton Bern Erfolge auf dem Weg tur Kimaneutralität bis 2050. Energie- und Kilmadaten können auf Gemeinde- oder Gebäudeebene nach vielfältige Kriteien dargestellt werden. Damit steht mit der Plattform ein wichtiges Instrument zur Verfügung, das für die Förderung, das Monitoring sowie Reporting eingesetzt werden kann.
-<h2>Wer?</h2>
-Gemiende im Kanton Bern können sich niederschwellig über energierelevante Daten informieren. Aber auch Politisierenden, Energieberatenden, Ingenieurbüros oder der Bevölkerung soll die EKDP spannende Daten aufzeigen.
-Das Management sowie die Weiterentwicklung der Plattform wird durch das Amt für Ümwelt und Energie (AUE) des Kantons Bern betreut.
-<h2>Was?</h2>
-Wir möchten die Nutzung des Dashboards interaktiver gestalten. Interessant wäre z.B die Möglichkeit, Zeitreiben zu visualizieren oder Usern die Erstellung eigener Analysen zu ermöglichen.
-Weitere Erwartungen sind:
-<ul>
-  <li>
-    Mögliches neues Energiedashboard mit den vorhandenen Datensätzen.
-    Erste Visualisierungen liegen vor.
-    Eventuell verwendete zusätzliche Daten sind OGD
-    Ideen für Kombination der Daten willkommen
-    Lösung soll Ladezeit der EKDP nicht verlängern, um die User-Erfahrung angenehm zu gestalten.
-  </li>
-</ul>
 <h1>II. Ressourcen - Datenquellen</h1>
 
 - [Gebäude- und Wohnungsregister GWR](https://opendata.swiss/de/dataset/eidg-gebaude-und-wohnungsregister-energie-warmequelle-heizung)  
