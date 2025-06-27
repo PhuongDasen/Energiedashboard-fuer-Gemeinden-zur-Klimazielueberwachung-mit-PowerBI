@@ -49,6 +49,11 @@ Tools: PowerBI<br>
   <br>
   <img src="https://github.com/user-attachments/assets/5067ff53-e44a-4d6c-8178-601d20e3b74c" width="600"/>
 </details>
+<details>
+  <summary>🔽 Table: Erneuerbare Energie Produktion </summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/4ad25ceb-1f6b-4c49-87bf-669e8c9ac05b" width="600"/>
+</details>
 #### 2️⃣ Table Schema & Data Snapshot  
 #### 3️⃣ Data Relationships:  
 ---
