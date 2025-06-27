@@ -36,26 +36,32 @@ Tools: PowerBI<br>
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
+- Quelle: Data von Kanton Bern (https://www.ekdp.apps.be.ch/home)
+- Grösse: 40'393 Zeilen und 10 Säulen
+- Format: .csv
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:
+Es gibt 9 Tabellen im Datensatz.
+#### 2️⃣ Table Schema & Data Snapshot
 <details>
-  <summary>🔽 Table: city_energy_users (336 Gemeinden mit ihren Energieträger)</summary>
+  <summary>🔽 Table 1: city_energy_users (336 Gemeinden mit ihren Energieträger)</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/8f83a71b-a45a-4c36-bea9-39026bc477b6" width="600"/>
 </details>
 <details>
-  <summary>🔽 Table: Geographie Index der Gemeinde (338 Zeilen)</summary>
+  <summary>🔽 Table 2: Geographie Index der Gemeinde (338 Zeilen)</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/5067ff53-e44a-4d6c-8178-601d20e3b74c" width="600"/>
 </details>
 <details>
-  <summary>🔽 Table: Erneuerbare Energie Produktion </summary>
+  <summary>🔽 Table 3: Erneuerbare Energie Produktion (40'393 Zeilen und 10 Säulen)</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/4ad25ceb-1f6b-4c49-87bf-669e8c9ac05b" width="600"/>
 </details>
-#### 2️⃣ Table Schema & Data Snapshot  
+
 #### 3️⃣ Data Relationships:  
+<img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="600" /><br>
 ---
 
 ## 🧠 Design Thinking Process  
