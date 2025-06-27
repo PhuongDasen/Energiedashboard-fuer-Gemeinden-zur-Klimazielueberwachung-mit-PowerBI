@@ -76,12 +76,13 @@ Es gibt 9 Tabellen im Datensatz.
 ## ⚒️ Main Process<br> 
 1️⃣ Datenbereinigung und -vorverarbeitung <br> 
 Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
+
 2️⃣ Explorative Datenanalyse (EDA) <br>
 - Verständnis der Struktur und Inhalte der Datensätze zu Energie, Bevölkerung und Minergie.<br>
-- Untersuchung der Verteilung der **Energieträger** (z. B. Holz, Elektrizität, Fernwärme) in den Gemeinden.<br>
-- Analyse der Beziehung zwischen **Minergie-Anzahl**, **Minergie-Prozentsatz** und **Bevölkerung** pro Gemeinde.<br>
-- Aggregation der **erneuerbaren Stromproduktion** (Wasser, Solar, Wind, Biomasse, Abfall) nach Jahr zur Erkennung von Trends.<br>
-- Vergleich der **Top-Gemeinden** mit dem höchsten Energieverbrauch oder der höchsten Minergie-Zahl.<br>
+- Untersuchung der Verteilung der Energieträger (z. B. Holz, Elektrizität, Fernwärme) in den Gemeinden.<br>
+- Analyse der Beziehung zwischen Minergie-Anzahl, Minergie-Prozentsatz und Bevölkerung pro Gemeinde.<br>
+- Aggregation der erneuerbaren Stromproduktion (Wasser, Solar, Wind, Biomasse, Abfall) nach Jahr zur Erkennung von Trends.<br>
+- Vergleich der Top-Gemeinden mit dem höchsten Energieverbrauch oder der höchsten Minergie-Zahl.<br>
 - Aufdecken von Auffälligkeiten oder interessanten Mustern zur Unterstützung der Dashboard-Gestaltung.<br>
 
 3️⃣ SQL/ Python Analyse 
