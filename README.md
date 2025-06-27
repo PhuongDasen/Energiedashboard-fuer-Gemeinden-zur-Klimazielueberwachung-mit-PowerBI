@@ -73,6 +73,7 @@ Es gibt 9 Tabellen im Datensatz.
 <img width="750" alt="Screenshot 2025-05-19 at 10 30 19" src="https://github.com/user-attachments/assets/21ab95f0-4a72-45a5-aecb-764e0e2c5ca3" />
  <br>
 ---
+
 ## ⚒️ Main Process<br> 
 1️⃣ Datenbereinigung und -vorverarbeitung <br> 
 Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
@@ -110,6 +111,9 @@ display(energy_distribution.head())
 | Weitere             | 331    | 10.84      |
 | Keine               | 330    | 10.81      |
 
+🎯 **Ergebnisanalyse:**  
+Holz, Heizöl und Elektrizität sind die drei am häufigsten verwendeten Energieträger, wobei jeder rund 11 % der Gesamtanzahl ausmacht.
+
 ## 2. Gesamt-Minergie, Bevölkerung und Minergie-Prozentsatz
 
 ```python
@@ -126,6 +130,10 @@ display(minergie_scatter.head())
 | Aarberg      | 48       | 1.12                 |
 | Aarburg      | 31       | 0.57                 |
 | Aarwangen    | 53       | 0.89                 |
+
+🎯 **Ergebnisanalyse:**  
+Aarau hat mit 409 die meisten Minergie-Gebäude, was 2,53 % der Gesamtbevölkerung entspricht – deutlich höher als andere Gemeinden.
+
 ## 3. Produktion erneuerbarer Elektrizität pro Jahr
 
 ```python
@@ -147,6 +155,10 @@ display(prod_per_year.head())
 | 2022 | 3108580  | 11190311  | 2466235  | 103047218   | 463221   |
 | 2023 | 12261186 | 50255514  | 9802144  | 485151896   | 2046467  |
 | 2024 | 3975583  | 19596145  | 3215339  | 172992561   | 601489   |
+
+🎯 **Ergebnisanalyse:**  
+Die Wasserenergie macht den größten Anteil aus und zeigt 2023 einen starken Produktionsanstieg auf über 485 Mio. kWh.
+
 ## 4. Top Gemeinden nach Minergie und Energieverbrauch
 
 ```python
@@ -167,6 +179,10 @@ display(top_gemeinden.head())
 | Aarberg      | Holz            | 304       | 48       | 1.12                 | 6             |
 | Aarburg      | Elektrizität    | 4101      | 31       | 0.57                 | 4             |
 | Aarwangen    | Heizöl          | 331       | 53       | 0.89                 | 5             |
+
+🎯 **Ergebnisanalyse:**  
+Gemeinden wie Aarau vereinen hohe Minergie-Zahlen mit vergleichsweise moderatem Energieverbrauch (z. B. 7 Einträge in Total_Energy).
+
 ## 5. Vergleich: Gesamte Stromproduktion vs. Pro-Kopf-Produktion
 
 ```python
@@ -182,18 +198,19 @@ display(pd.DataFrame([total_vs_capita]))
 | Total_Per_Capita_Production | Total_Production |
 |-----------------------------|------------------|
 | 786193.39                   | 880173937        |
+
+🎯 **Ergebnisanalyse:**  
+Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produktion nur 786 Tsd. kWh beträgt – ein Hinweis auf regionale Produktionsungleichheit.
 <br>
-
-<h1>IV. Visualisierung</h1>
-<img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
----
-
 
 ## 📊 Key Insights & Visualizations  
 
 ### 🔍 Dashboard Preview  
+<img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
 
-#### 1️⃣ Dashboard 1 Preview  
+📊 Hauptbeobachtungen  
+- 🛢️ Heizöl ist mit 39.22 % der am häufigsten genutzte Energieträger, gefolgt von 🌲 Holz (16.36 %) und 🔥 Gas (11.54 %).  
+- ⚡ Die jährliche Stromproduktion schwankt erheblich, mit einem Spitzenwert über 4 M im Dezember 2023.
 ---
 
 ## 🔎 Final Conclusion & Recommendations  
