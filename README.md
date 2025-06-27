@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github.com/phuongdasen/Energie-Dashboard/blob/main/ecommerce.png?raw=true" width="100%">
+  <img src="https://github.com/user-attachments/assets/6336908f-05d6-49f7-96eb-63a5ed766624" width="100%">
 </p>
 <h1> 📊 Energie-Dashboard</h1>
 Data Hackdays in Kanton Bern im 05.2025<br>
 Tools: PowerBI<br>
 
 <h2> 📑 Table of Contents <br></h2>
-1. [📌 Background & Overview](#-background--overview)<br>
-2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)<br>  
-3. [🧠 Design Thinking Process](#-design-thinking-process)<br>  
-4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)<br>  
-5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)<br>
+1. [📌 Background & Overview]<br>
+2. [📂 Dataset Description & Data Structure])<br>  
+3. [🧠 Design Thinking Process]<br>  
+4. [📊 Key Insights & Visualizations]<br>  
+5. [🔎 Final Conclusion & Recommendations]<br>
 
 ---
 ## 📌 Hintergrund und Überblick 
