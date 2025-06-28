@@ -64,7 +64,7 @@ Es gibt 9 Tabellen im Datensatz.
 <img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="600" /><br>
 ---
 
-## 🧠  Ideensammlung
+## 🧠  Brainstorming
 <p><strong>Analysiere die Geschäftsfragen, um alle möglichen Kennzahlen und Lösungen zu definieren</strong></p>
 <img width="750" src="https://github.com/user-attachments/assets/fdf0b61e-92d1-4c62-ba71-a9d2abcad596"/>
 <p><strong>Schnittstellenreferenz und Entwurfslayout</strong></p>
@@ -74,7 +74,7 @@ Es gibt 9 Tabellen im Datensatz.
  <br>
 ---
 
-## ⚒️ Hauptprozess <br> 
+## ⚒️ Hauptprozess der Datenanalyse <br> 
 1️⃣ Datenbereinigung und -vorverarbeitung <br> 
 Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
 
@@ -208,7 +208,7 @@ Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produk
 ### 🔍 Dashboard Vorschau  
 <img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
 
-📊 Hauptbeobachtungen  
+📊 Haupterkenntnisse  
 - 🛢️ Heizöl ist mit 39.22 % der am häufigsten genutzte Energieträger, gefolgt von 🌲 Holz (16.36 %) und 🔥 Gas (11.54 %).  
 - ⚡ Die jährliche Stromproduktion schwankt erheblich, mit einem Spitzenwert über 4 M im Dezember 2023.
 ---
