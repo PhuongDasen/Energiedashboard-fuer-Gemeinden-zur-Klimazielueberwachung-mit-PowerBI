@@ -33,38 +33,38 @@ Tool: PowerBI<br>
 ### 🎯 Projektergebnis: 
 •	Bereitstellung eines strategischen Steuerungstools zur Überwachung energie- und klimapolitischer Maßnahmen.<br>
 •	Grundlage für datenbasierte Entscheidungen auf kommunaler und kantonaler Ebene.<br>
-## 📂 Dataset Description & Data Structure  
+## 📂 Datensatzbeschreibung & Datenstruktur  
 
-### 📌 Data Source  
+### 📌 Datenquellen:   
 - Quelle: Data von Kanton Bern (https://www.ekdp.apps.be.ch/home)
 - Grösse: 40'393 Zeilen und 10 Säulen
 - Format: .csv
-### 📊 Data Structure & Relationships  
+### 📊 Datenstruktur und Datenbeziehungen  
 
-#### 1️⃣ Tables Used:
+#### 1️⃣ Verwendete Tabellen:
 Es gibt 9 Tabellen im Datensatz.
-#### 2️⃣ Table Schema & Data Snapshot
+#### 2️⃣ Tabellenschema & Datenübersicht
 <details>
-  <summary>🔽 Table 1: city_energy_users (336 Gemeinden mit ihren Energieträger)</summary>
+  <summary>🔽 Tabelle 1: city_energy_users (336 Gemeinden mit ihren Energieträger)</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/8f83a71b-a45a-4c36-bea9-39026bc477b6" width="600"/>
 </details>
 <details>
-  <summary>🔽 Table 2: Geographie Index der Gemeinde (338 Zeilen)</summary>
+  <summary>🔽 Tabelle 2: Geographie Index der Gemeinde (338 Zeilen)</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/5067ff53-e44a-4d6c-8178-601d20e3b74c" width="600"/>
 </details>
 <details>
-  <summary>🔽 Table 3: Erneuerbare Energie Produktion (40'393 Zeilen und 10 Säulen)</summary>
+  <summary>🔽 Tabelle 3: Erneuerbare Energie Produktion (40'393 Zeilen und 10 Säulen)</summary>
   <br>
   <img src="https://github.com/user-attachments/assets/4ad25ceb-1f6b-4c49-87bf-669e8c9ac05b" width="600"/>
 </details>
 
-#### 3️⃣ Data Relationships:  
+#### 3️⃣ Datenbeziehungen:  
 <img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="600" /><br>
 ---
 
-## 🧠 Brainstorming  
+## 🧠  Ideensammlung
 <p><strong>Analysiere die Geschäftsfragen, um alle möglichen Kennzahlen und Lösungen zu definieren</strong></p>
 <img width="750" src="https://github.com/user-attachments/assets/fdf0b61e-92d1-4c62-ba71-a9d2abcad596"/>
 <p><strong>Schnittstellenreferenz und Entwurfslayout</strong></p>
@@ -74,7 +74,7 @@ Es gibt 9 Tabellen im Datensatz.
  <br>
 ---
 
-## ⚒️ Main Process<br> 
+## ⚒️ Hauptprozess <br> 
 1️⃣ Datenbereinigung und -vorverarbeitung <br> 
 Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
 
@@ -203,9 +203,9 @@ display(pd.DataFrame([total_vs_capita]))
 Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produktion nur 786 Tsd. kWh beträgt – ein Hinweis auf regionale Produktionsungleichheit.
 <br>
 
-## 📊 Key Insights & Visualizations  
+## 📊 Zentrale Erkenntnisse & Visualisierungen 
 
-### 🔍 Dashboard Preview  
+### 🔍 Dashboard Vorschau  
 <img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
 
 📊 Hauptbeobachtungen  
@@ -213,8 +213,7 @@ Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produk
 - ⚡ Die jährliche Stromproduktion schwankt erheblich, mit einem Spitzenwert über 4 M im Dezember 2023.
 ---
 
-## 🔎 Final Conclusion & Recommendations  
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
+## 🔎 Abschließende Schlussfolgerung & Empfehlungen 
 
 📌 Zentrale Erkenntnisse:
 
