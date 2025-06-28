@@ -6,12 +6,11 @@ Data Hackdays | Kanton Bern | 05.2025<br>
 Tool: PowerBI<br>
 
 <h2> 📑 Inhaltsverzeichnis <br></h2>
-1. [📌 Hintergrund & Überblick](#hintergrund--überblick)  
-2. [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)  
-3. [🧠 Design-Thinking-Prozess](#design-thinking-prozess)  
-4. [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)  
-5. [🔍 Abschließende Schlussfolgerung & Empfehlungen](#abschließende-schlussfolgerung--empfehlungen)  
-
+- [📌 Hintergrund & Überblick](#hintergrund--überblick)  
+- [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)  
+- [🧠 Design-Thinking-Prozess](#design-thinking-prozess)  
+- [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)  
+- [🔍 Abschließende Schlussfolgerung & Empfehlungen](#abschließende-schlussfolgerung--empfehlungen)  
 ---
 ## 📌 Hintergrund und Überblick 
 
