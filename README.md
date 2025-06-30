@@ -5,12 +5,14 @@
 Data Hackdays | Kanton Bern | 05.2025<br>
 Tool: PowerBI<br>
 
-<h2> 📑 Inhaltsverzeichnis <br></h2>
+## 📑 Inhaltsverzeichnis
+
 - [📌 Hintergrund & Überblick](#hintergrund--überblick)  
 - [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)  
 - [🧠 Design-Thinking-Prozess](#design-thinking-prozess)  
 - [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)  
 - [🔍 Abschließende Schlussfolgerung & Empfehlungen](#abschließende-schlussfolgerung--empfehlungen)  
+
 ---
 ## 📌 Hintergrund und Überblick 
 
@@ -32,13 +34,14 @@ Tool: PowerBI<br>
 ### 🎯 Projektergebnis: 
 •	Bereitstellung eines strategischen Steuerungstools zur Überwachung energie- und klimapolitischer Maßnahmen.<br>
 •	Grundlage für datenbasierte Entscheidungen auf kommunaler und kantonaler Ebene.<br>
-## 📂 Datensatzbeschreibung & Datenstruktur  
+[📊 Datenstruktur und Datenbeziehungen](#datenstruktur-und-datenbeziehungen)
 
 ### 📌 Datenquellen:   
 - Quelle: Data von Kanton Bern (https://www.ekdp.apps.be.ch/home)
 - Grösse: 40'393 Zeilen und 10 Säulen
 - Format: .csv
-### 📊 Datenstruktur und Datenbeziehungen  
+  
+### 📁 Datensatzbeschreibung & Datenstruktur
 
 #### 1️⃣ Verwendete Tabellen:
 Es gibt 9 Tabellen im Datensatz.
