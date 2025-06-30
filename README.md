@@ -49,32 +49,31 @@ Es gibt 9 Tabellen im Datensatz.
 <details>
   <summary>🔽 Tabelle 1: city_energy_users (336 Gemeinden mit ihren Energieträger)</summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/8f83a71b-a45a-4c36-bea9-39026bc477b6" width="600"/>
+  <img src="https://github.com/user-attachments/assets/838b0e78-297b-469e-935e-95c2cb62462a" width="400"/>
 </details>
 <details>
   <summary>🔽 Tabelle 2: Geographie Index der Gemeinde (338 Zeilen)</summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/5067ff53-e44a-4d6c-8178-601d20e3b74c" width="600"/>
+  <img src="https://github.com/user-attachments/assets/5067ff53-e44a-4d6c-8178-601d20e3b74c" width="500"/>
 </details>
 <details>
   <summary>🔽 Tabelle 3: Erneuerbare Energie Produktion (40'393 Zeilen und 10 Säulen)</summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/4ad25ceb-1f6b-4c49-87bf-669e8c9ac05b" width="600"/>
+  <img src="https://github.com/user-attachments/assets/05a4dc4d-bd41-4d56-9f22-476607914ff9" width="1000"/>
 </details>
 
 #### 3️⃣ Datenbeziehungen:  
-<img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="600" /><br>
+<img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="800" /><br>
 ---
 
 ## 🧠  Brainstorming
 <p><strong>Analysiere die Geschäftsfragen, um alle möglichen Kennzahlen und Lösungen zu definieren</strong></p>
-<img width="750" src="https://github.com/user-attachments/assets/fdf0b61e-92d1-4c62-ba71-a9d2abcad596"/>
+<img width="1000" src="https://github.com/user-attachments/assets/fdf0b61e-92d1-4c62-ba71-a9d2abcad596"/>
 <p><strong>Schnittstellenreferenz und Entwurfslayout</strong></p>
-<img width="750" alt="Screenshot 2025-05-19 at 10 30 26" src="https://github.com/user-attachments/assets/56e464db-f40e-483a-9fdc-3bf3d11499e5" />
+<img width="1000" alt="Screenshot 2025-05-19 at 10 30 26" src="https://github.com/user-attachments/assets/56e464db-f40e-483a-9fdc-3bf3d11499e5" />
 <p><strong>Aktuelle Schnittstellenstatusanalyse</strong></p>
-<img width="750" alt="Screenshot 2025-05-19 at 10 30 19" src="https://github.com/user-attachments/assets/21ab95f0-4a72-45a5-aecb-764e0e2c5ca3" />
+<img width="1000" alt="Screenshot 2025-05-19 at 10 30 19" src="https://github.com/user-attachments/assets/21ab95f0-4a72-45a5-aecb-764e0e2c5ca3" />
  <br>
----
 
 ## ⚒️ Hauptprozess der Datenanalyse <br> 
 1️⃣ Datenbereinigung und -vorverarbeitung <br> 
