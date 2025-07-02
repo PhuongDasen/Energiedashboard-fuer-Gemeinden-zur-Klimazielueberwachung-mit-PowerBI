@@ -7,7 +7,7 @@ Tool: PowerBI<br>
 
 ## 📚 Inhaltsverzeichnis
 
-- [Hintergrund & Überblick](#hintergrund--überblick)
+- [Hintergrund & Überblick](#hintergrund--uberblick)
 - [Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)
 - [Design Thinking Prozess](#design-thinking-prozess)
 - [Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)
