@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6336908f-05d6-49f7-96eb-63a5ed766624" width="100%">
 </p>
-<h1> 📊 Energie-Dashboard</h1>
+<h1> 📊 Energiedashboard für Gemeiden zur Klimazielüberwachung mit Power BI</h1>
 Data Hackdays | Kanton Bern | 05.2025<br>
 Tool: PowerBI<br>
 
