@@ -42,7 +42,7 @@ Tool: PowerBI<br>
 - Grösse: 40'393 Zeilen und 10 Säulen
 - Format: .csv
   
-### 📁 Datensatzbeschreibung & Datenstruktur
+## 📁 Datensatzbeschreibung & Datenstruktur
 
 #### 1️⃣ Verwendete Tabellen:
 Es gibt 9 Tabellen im Datensatz.
@@ -67,7 +67,7 @@ Es gibt 9 Tabellen im Datensatz.
 <img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="800" /><br>
 ---
 
-## 🧠  Brainstorming
+## 🧠 Design Thinking Prozess
 <p><strong>Analysiere die Geschäftsfragen, um alle möglichen Kennzahlen und Lösungen zu definieren</strong></p>
 <img width="1000" src="https://github.com/user-attachments/assets/fdf0b61e-92d1-4c62-ba71-a9d2abcad596"/>
 <p><strong>Schnittstellenreferenz und Entwurfslayout</strong></p>
@@ -215,7 +215,7 @@ Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produk
 - ⚡ Die jährliche Stromproduktion schwankt erheblich, mit einem Spitzenwert über 4 M im Dezember 2023.
 ---
 
-## 🔎 Abschließende Schlussfolgerung & Empfehlungen 
+## 🔍 Fazit & Empfehlungen
 
 📌 Zentrale Erkenntnisse:
 
