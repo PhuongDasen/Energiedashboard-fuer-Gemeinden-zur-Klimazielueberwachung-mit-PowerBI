@@ -7,15 +7,15 @@ Tool: PowerBI<br>
 
 ## 📚 Inhaltsverzeichnis
 
-- [Hintergrund & Ueberblick](#hintergrund--uberblick)
-- [Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)
-- [Design Thinking Prozess](#design-thinking-prozess)
-- [Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)
+- [📌 Hintergrund & Ueberblick](#hintergrund--uberblick)
+- [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)
+- [🧠 Design Thinking Prozess](#design-thinking-prozess)
+- [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)
 - [Fazit & Empfehlungen](#fazit--empfehlungen)
 
 ---
 
-## 📌 [Hintergrund & Ueberblick](#hintergrund--uberblick)
+## [📌 Hintergrund & Ueberblick](#hintergrund--uberblick)
 
 ### Ziel:
 ### 📖 Was ist dieses Projekt?
@@ -42,7 +42,7 @@ Tool: PowerBI<br>
 - Grösse: 40'393 Zeilen und 10 Säulen
 - Format: .csv
   
-## 📁 [Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)
+## [📁 Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)
 
 #### 1️⃣ Verwendete Tabellen:
 Es gibt 9 Tabellen im Datensatz.
@@ -67,7 +67,7 @@ Es gibt 9 Tabellen im Datensatz.
 <img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="800" /><br>
 ---
 
-## 🧠 [Design Thinking Prozess](#design-thinking-prozess)
+## [🧠 Design Thinking Prozess](#design-thinking-prozess)
 <p><strong>Analysiere die Geschäftsfragen, um alle möglichen Kennzahlen und Lösungen zu definieren</strong></p>
 <img width="1000" src="https://github.com/user-attachments/assets/fdf0b61e-92d1-4c62-ba71-a9d2abcad596"/>
 <p><strong>Schnittstellenreferenz und Entwurfslayout</strong></p>
@@ -204,7 +204,7 @@ display(pd.DataFrame([total_vs_capita]))
 Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produktion nur 786 Tsd. kWh beträgt – ein Hinweis auf regionale Produktionsungleichheit.
 <br>
 
-## 📊 [Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)
+## [📊 Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)
 1️⃣ Datenbereinigung und -vorverarbeitung <br> 
 
 ### 🔍 Dashboard Vorschau  
