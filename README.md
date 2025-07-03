@@ -7,7 +7,7 @@ Tool: PowerBI<br>
 
 ## 📚 Inhaltsverzeichnis
 
-- [Hintergrund & Überblick](#hintergrund--uberblick)
+- [Hintergrund & Ueberblick](#hintergrund--uberblick)
 - [Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)
 - [Design Thinking Prozess](#design-thinking-prozess)
 - [Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)
@@ -15,7 +15,7 @@ Tool: PowerBI<br>
 
 ---
 
-## 📌 Hintergrund & Überblick
+## 📌 [Hintergrund & Ueberblick](#hintergrund--uberblick)
 
 ### Ziel:
 ### 📖 Was ist dieses Projekt?
@@ -42,7 +42,7 @@ Tool: PowerBI<br>
 - Grösse: 40'393 Zeilen und 10 Säulen
 - Format: .csv
   
-## 📁 Datensatzbeschreibung & Datenstruktur
+## 📁 [Datensatzbeschreibung & Datenstruktur](#datensatzbeschreibung--datenstruktur)
 
 #### 1️⃣ Verwendete Tabellen:
 Es gibt 9 Tabellen im Datensatz.
@@ -67,7 +67,7 @@ Es gibt 9 Tabellen im Datensatz.
 <img src="https://github.com/user-attachments/assets/3d208ab8-104a-4c40-aea2-88597b8c748a" alt="Data Modelling" width="800" /><br>
 ---
 
-## 🧠 Design Thinking Prozess
+## 🧠 [Design Thinking Prozess](#design-thinking-prozess)
 <p><strong>Analysiere die Geschäftsfragen, um alle möglichen Kennzahlen und Lösungen zu definieren</strong></p>
 <img width="1000" src="https://github.com/user-attachments/assets/fdf0b61e-92d1-4c62-ba71-a9d2abcad596"/>
 <p><strong>Schnittstellenreferenz und Entwurfslayout</strong></p>
@@ -76,8 +76,7 @@ Es gibt 9 Tabellen im Datensatz.
 <img width="1000" alt="Screenshot 2025-05-19 at 10 30 19" src="https://github.com/user-attachments/assets/21ab95f0-4a72-45a5-aecb-764e0e2c5ca3" />
  <br>
 
-## ⚒️ Hauptprozess der Datenanalyse <br> 
-1️⃣ Datenbereinigung und -vorverarbeitung <br> 
+## ⚒️ Hauptprozess
 Daten des Kantons Bern wurden im System bereinigt und aufbereitet. <br>
 
 2️⃣ Explorative Datenanalyse (EDA) <br>
@@ -205,7 +204,8 @@ display(pd.DataFrame([total_vs_capita]))
 Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produktion nur 786 Tsd. kWh beträgt – ein Hinweis auf regionale Produktionsungleichheit.
 <br>
 
-## 📊 Zentrale Erkenntnisse & Visualisierungen 
+## 📊 [Zentrale Erkenntnisse & Visualisierungen](#zentrale-erkenntnisse--visualisierungen)
+1️⃣ Datenbereinigung und -vorverarbeitung <br> 
 
 ### 🔍 Dashboard Vorschau  
 <img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
@@ -215,7 +215,7 @@ Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produk
 - ⚡ Die jährliche Stromproduktion schwankt erheblich, mit einem Spitzenwert über 4 M im Dezember 2023.
 ---
 
-## 🔍 Fazit & Empfehlungen
+## [Fazit & Empfehlungen](#fazit--empfehlungen)
 
 📌 Zentrale Erkenntnisse:
 
