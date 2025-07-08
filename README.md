@@ -208,7 +208,7 @@ Die Gesamtproduktion beträgt über 880 Mio. kWh, während die Pro-Kopf-Produk
 1️⃣ Datenbereinigung und -vorverarbeitung <br> 
 
 ### 🔍 Dashboard Vorschau  
-<img width="3500" alt="Screenshot 2025-05-26 at 18 06 16" src="https://github.com/user-attachments/assets/4f6ddb94-8916-4016-9af9-9e7ce8fedb15" />
+<img width="1500" heigh="500" alt="Screenshot 2025-07-08 at 12 04 39 PM" src="https://github.com/user-attachments/assets/0c10780e-7084-493a-8770-d2705e8760f0" />
 
 📊 Haupterkenntnisse  
 - 🛢️ Heizöl ist mit 39.22 % der am häufigsten genutzte Energieträger, gefolgt von 🌲 Holz (16.36 %) und 🔥 Gas (11.54 %).  
